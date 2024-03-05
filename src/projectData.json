@@ -1,0 +1,65 @@
+[
+    
+    {
+        "id": 1 ,
+        "title": "Code Quiz",
+        "img": "https://github.com/frimpn/react-profile/blob/main/reactprofile/src/images/quiz.jpg?raw=true" ,
+        "github": "https://github.com/frimpn/code-quiz",
+        "page" : "https://frimpn.github.io/code-quiz/"
+
+          
+    },
+
+    {
+        "id" : 2 ,
+        "title": "Work Day Schedule",
+        "img": "https://github.com/frimpn/react-profile/blob/main/reactprofile/src/images/schedule.jpg?raw=true" ,
+        "github": "https://github.com/frimpn/daily-planner-app",
+        "page" : "https://frimpn.github.io/daily-planner-app/"
+
+          
+    },
+
+    {
+        "id" : 3 ,
+        "title": "Weather DashBoard",
+        "img": "https://github.com/frimpn/react-profile/blob/main/reactprofile/src/images/weather.jpg?raw=true" ,
+        "github": "https://github.com/frimpn/weather-dashboard",
+        "page" : "https://frimpn.github.io/weather-dashboard/"
+
+          
+    },
+
+    {
+        "id" : 4 ,
+        "title": "Date Night Api-collab",
+        "img": "https://github.com/frimpn/react-profile/blob/main/reactprofile/src/images/dateNight.jpg?raw=true" ,
+        "github": "https://github.com/hpro97/DateNight",
+        "page" : "https://hpro97.github.io/DateNight/"
+
+          
+    },
+
+    {
+        "id" : 5 ,
+        "title": "Password Generator",
+        "img": "https://github.com/frimpn/react-profile/blob/main/reactprofile/src/images/password.jpg?raw=true" ,
+        "github": "https://github.com/frimpn/password-generator",
+        "page" : "https://frimpn.github.io/password-generator/"
+
+          
+    },
+
+    {
+        "id" : 6 ,
+        "title": "finance console",
+        "img": "https://github.com/frimpn/react-profile/blob/main/reactprofile/src/images/finance.jpg?raw=true" ,
+        "github": "https://github.com/frimpn/console-finances",
+        "page" : "https://frimpn.github.io/console-finances/"
+
+          
+    }
+
+
+
+]
